@@ -1,0 +1,1 @@
+To solve this problem, you can iterate through each block and check the distance to the nearest required building. You can do this by keeping track of the minimum distance to a required building seen so far, and updating it whenever a block is found that is closer to a required building. Then, you can return the index of the block that resulted in the minimum distance.
